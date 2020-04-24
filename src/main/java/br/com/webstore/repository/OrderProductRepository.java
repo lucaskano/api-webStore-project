@@ -1,4 +1,4 @@
-package br.com.webstore.Repository;
+package br.com.webstore.repository;
 
 import br.com.webstore.model.OrderProduct;
 import br.com.webstore.model.OrderProductPK;

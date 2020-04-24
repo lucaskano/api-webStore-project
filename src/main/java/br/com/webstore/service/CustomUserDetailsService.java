@@ -1,6 +1,6 @@
 package br.com.webstore.service;
 
-import br.com.webstore.Repository.DBUserRepository;
+import br.com.webstore.repository.DBUserRepository;
 import br.com.webstore.model.DBUser;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;

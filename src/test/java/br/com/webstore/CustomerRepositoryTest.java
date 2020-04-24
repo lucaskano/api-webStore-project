@@ -1,6 +1,6 @@
 package br.com.webstore;
 
-import br.com.webstore.Repository.CustomerRepository;
+import br.com.webstore.repository.CustomerRepository;
 import br.com.webstore.model.Customer;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

@@ -1,9 +1,7 @@
-package br.com.webstore.Repository;
+package br.com.webstore.repository;
 
 import br.com.webstore.model.DBUser;
 import org.springframework.data.repository.PagingAndSortingRepository;
-
-import java.util.List;
 
 /**
  * @project: api-webstore

@@ -1,8 +1,7 @@
-package br.com.webstore.Repository;
+package br.com.webstore.repository;
 
 import br.com.webstore.model.Customer;
 import org.springframework.data.repository.PagingAndSortingRepository;
-import org.springframework.http.ResponseEntity;
 
 import java.util.List;
 

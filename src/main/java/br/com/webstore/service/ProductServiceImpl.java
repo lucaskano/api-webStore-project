@@ -1,13 +1,12 @@
 package br.com.webstore.service;
 
-import br.com.webstore.Repository.ProductRepository;
+import br.com.webstore.repository.ProductRepository;
 import br.com.webstore.error.ResourceNotFoundException;
 import br.com.webstore.model.Product;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import javax.transaction.Transactional;
-import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
 
 /**

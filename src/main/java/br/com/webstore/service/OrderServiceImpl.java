@@ -1,13 +1,11 @@
 package br.com.webstore.service;
 
-import br.com.webstore.Repository.OrderRepository;
+import br.com.webstore.repository.OrderRepository;
 import br.com.webstore.model.Order;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import javax.transaction.Transactional;
-import javax.validation.Valid;
-import javax.validation.constraints.NotEmpty;
 import java.time.LocalDate;
 
 /**

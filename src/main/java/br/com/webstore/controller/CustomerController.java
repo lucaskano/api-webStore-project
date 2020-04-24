@@ -1,6 +1,6 @@
 package br.com.webstore.controller;
 
-import br.com.webstore.Repository.CustomerRepository;
+import br.com.webstore.repository.CustomerRepository;
 import br.com.webstore.dto.CustomerDTO;
 import br.com.webstore.error.ResourceNotFoundException;
 import br.com.webstore.model.Customer;

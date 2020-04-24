@@ -1,7 +1,7 @@
 package br.com.webstore;
 
-import br.com.webstore.Repository.CustomerRepository;
-import br.com.webstore.Repository.DBUserRepository;
+import br.com.webstore.repository.CustomerRepository;
+import br.com.webstore.repository.DBUserRepository;
 import br.com.webstore.model.Customer;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;
